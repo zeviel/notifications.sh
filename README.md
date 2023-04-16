@@ -3,6 +3,6 @@ Web-API for [notifications](https://vk.com/notifications_app) an vk service to k
 
 ## Example
 ```bash
-source notifications.sh
+source ./notifications.sh
 authenticate "sign" "vk_user_id" "vk_ts" "vk_ref"
 ```
